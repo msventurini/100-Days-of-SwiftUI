@@ -1,0 +1,7 @@
+How to follow along:
+- Try yourself!
+- XCode 13 or later.
+- Use MacOS Blank Playgrounds.
+- Why use MacOS Playgrounds?
+        Because are the most simple playgrounds to learn plain Swift.
+

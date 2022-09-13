@@ -1,0 +1,7 @@
+How to create variables:
+- Swift gives us two ways to store data: variables and constants.
+- We can change variable values over time.
+- Semicolons are rare!
+- Constants, obviously, cannont change values.
+- Camel Case is a good convention to follow :)
+- Prefer constants over variables!

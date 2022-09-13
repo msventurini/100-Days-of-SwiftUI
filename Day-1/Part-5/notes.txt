@@ -1,0 +1,14 @@
+How to create Strings:
+- We can use " on strings as long they are with a \.
+
+Multi-line strings:
+- we need to use """ arround the string in order to make a multiline 
+string.
+- .count return us the string size.
+- swift handles and count emoji very well.
+- .uppercased() returns the string uppercased.B
+- whe dont need the () on method calls if swift just will read data
+- .hasPrefix("...") returns a boolean that indicates if the string starts 
+with the described words.
+- .hasSufix("...") does the same, but with the end of the string.
+- strings are case sensitive!

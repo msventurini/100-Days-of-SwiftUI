@@ -1,0 +1,6 @@
+How to store whole numbers:
+- For these numbers we use integers.
+- We can use really big numbers on swift.
+- We use _ to make numbers easier to read: 100_000_000, swift just ignores the underscores
+- The shorthand operators are like the c++ ones: +=, -=, etc.
+- .isMultipleOf(number) returns a bool that indicates if the number is divisible by the parameter

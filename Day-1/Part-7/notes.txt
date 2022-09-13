@@ -1,0 +1,12 @@
+How to store decimal numbers:
+- Floating point numbers are double precision on Swift
+- Doubles are a total diferent type of data on swift, doubles have a little inacuraccy on them.
+- We cant do operations with integers and flat numbers directly, even if its 2.0, for example.
+- We can do operations between integers and floating numbers when we convert one of them to the other number's type, example:
+If a is an integer and b is a double:
+let c = Double(a) + b
+
+- As a type safe language, swift doesn't allow us to change variable types.
+- Floating numbers have the same operators as integers, for example, *= 2 works for an floating point number even if 2 appears to be an integer
+- Swift allows us to use the legacy type CGFloat and Doubles without caring about replacing a CGFloat with a Double.
+- The float values inacuraccy is due the computer nature to store numbers on binaries.

@@ -1,0 +1,9 @@
+Why Swift?
+- New language with innotavive with generally one way of solving a 
+problem.
+- Makes easier to make safe code.
+- Helps to make understanble code.
+- Supports all types of characters.
+
+SwiftUI
+- Apple's framework to draw applications, optimized for Swift.
